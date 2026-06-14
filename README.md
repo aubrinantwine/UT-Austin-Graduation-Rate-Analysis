@@ -51,7 +51,12 @@ Expected counts were calculated under the null hypothesis of no association betw
 | **Critical Value (α = 0.05)** | 5.991 |
 | **P-Value** | 0.401 |
 
-### 4. Conclusion
+### 4. Visualization
+Using the sample a 100% stacked bar chart was created to compare graduation outcomes across financial aid status.
+
+<img width="514" height="307" alt="image" src="https://github.com/user-attachments/assets/7bc526d7-6e8f-4627-8289-7dc9819536ce" />
+
+### 5. Conclusion
 Since the chi-square statistic (1.830) is well below the critical value (5.991) and the p-value (0.401) far exceeds the 0.05 significance threshold, we **fail to reject the null hypothesis**. There is no statistically significant association between financial aid status and graduating within 150% of normal time in this sample.
 
 ---
